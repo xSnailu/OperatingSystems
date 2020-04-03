@@ -1,0 +1,4 @@
+
+A program that simulates a simple messenger.
+Each instance has an array of two recipients to write to.
+The user can add another recipient or send a message.
