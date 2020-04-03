@@ -1,0 +1,4 @@
+
+A program that codes a number using signals.
+The child process codes a number.
+The parent process decodes this number.
