@@ -1,0 +1,2 @@
+A program that approximates the integral by the Monte Carlo method. 
+Threads draw a random number and add it to "cumulativenumber".
